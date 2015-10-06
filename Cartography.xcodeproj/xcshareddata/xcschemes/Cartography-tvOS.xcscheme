@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "03C9B6C71BC469C30020C82C"
-               BuildableName = "Cartography-tvOS.framework"
+               BuildableName = "Cartography.framework"
                BlueprintName = "Cartography-tvOS"
                ReferencedContainer = "container:Cartography.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03C9B6C71BC469C30020C82C"
-            BuildableName = "Cartography-tvOS.framework"
+            BuildableName = "Cartography.framework"
             BlueprintName = "Cartography-tvOS"
             ReferencedContainer = "container:Cartography.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03C9B6C71BC469C30020C82C"
-            BuildableName = "Cartography-tvOS.framework"
+            BuildableName = "Cartography.framework"
             BlueprintName = "Cartography-tvOS"
             ReferencedContainer = "container:Cartography.xcodeproj">
          </BuildableReference>
@@ -83,7 +83,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03C9B6C71BC469C30020C82C"
-            BuildableName = "Cartography-tvOS.framework"
+            BuildableName = "Cartography.framework"
             BlueprintName = "Cartography-tvOS"
             ReferencedContainer = "container:Cartography.xcodeproj">
          </BuildableReference>
